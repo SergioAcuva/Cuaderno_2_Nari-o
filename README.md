@@ -17,7 +17,7 @@ El notebook original utiliza técnicas de clasificación supervisada para analiz
    - Generación de mapas basados en las predicciones del modelo.
 
 Puedes acceder al notebook adaptado directamente desde este enlace:  
-[Clasificación de Uso y Cobertura del Suelo en Nariño](https://colab.research.google.com/github/SergioAcuva/Cuaderno_2_Nari-o/blob/main/lucl_Nari%C3%B1o_.ipynb).
+[Clasificación de Uso y Cobertura del Suelo en Nariño](https://colab.research.google.com/github/SergioAcuva/Cuaderno_2_Nari-o/blob/main/lucl_Depa_Nari%C3%B1o_.ipynb).
 
 ---
 
