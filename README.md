@@ -4,7 +4,7 @@ Este repositorio contiene un ejercicio adaptado basado en el notebook original [
 
 ---
 
-## 📋 Descripción
+## Descripción
 
 El notebook original utiliza técnicas de clasificación supervisada para analizar el uso y la cobertura del suelo en una región de interés. En este repositorio, hemos adaptado este enfoque utilizando datos geoespaciales relevantes para **Nariño, Colombia**. Esta adaptación incluye:
 
@@ -21,7 +21,7 @@ Puedes acceder al notebook adaptado directamente desde este enlace:
 
 ---
 
-## 📂 Contenido del Repositorio
+## Contenido del Repositorio
 
 - `lucl_Nariño_.ipynb`: Notebook adaptado para realizar el análisis de uso y cobertura del suelo en Nariño.
 - `LICENSE`: Licencia del proyecto.
@@ -47,13 +47,13 @@ Los datos utilizados para este análisis incluyen imágenes satelitales de libre
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 El objetivo de este proyecto es demostrar cómo los métodos de clasificación supervisada de uso y cobertura del suelo pueden ser aplicados a regiones específicas, promoviendo el análisis territorial en contextos locales.
 
 ---
 
-## 💡 Tomado de
+## Tomado de
 
 Este proyecto está basado en el excelente trabajo de **Climate Change AI Tutorials**, cuyo notebook original puede encontrarse en el siguiente enlace:
 [Land Use and Land Cover Classification](https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part2.ipynb).
