@@ -16,6 +16,9 @@ El notebook original utiliza técnicas de clasificación supervisada para realiz
 3. **Visualización y evaluación de resultados**:
    - Mapas generados a partir de las predicciones del modelo.
 
+Puedes acceder al notebook adaptado directamente desde este enlace:  
+[Clasificación de Uso y Cobertura del Suelo en Nariño](https://colab.research.google.com/github/SergioAcuva/Cuaderno_2_Nari-o/blob/main/lucl_Nari%C3%B1o_.ipynb).
+
 ---
 
 ## 📂 Contenido del Repositorio
@@ -30,8 +33,7 @@ El notebook original utiliza técnicas de clasificación supervisada para realiz
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/SergioAcuva/Cuaderno_2_Nari-o.git
-   ```
+   git clone https://github.com/<tu_usuario>/Cuaderno_2_Nari-o.git
 2. Abre el notebook `lucl_Nariño_.ipynb` en Google Colab para explorar el análisis. 
 3. Asegúrate de tener los siguientes requisitos instalados si decides ejecutarlo localmente:
    - Python 3.x
