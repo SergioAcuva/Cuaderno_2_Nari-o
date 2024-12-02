@@ -1,6 +1,6 @@
 # Clasificación de Uso y Cobertura del Suelo en el Departamento de Nariño, Colombia 🌎
 
-Este repositorio contiene un ejercicio adaptado basado en el notebook original [Land Use and Land Cover Classification](https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part2.ipynb) desarrollado por **Climate Change AI Tutorials** por Ankur Mahesh y Isabelle Tingzon. El propósito de este proyecto es implementar los conceptos y métodos de clasificación de uso y cobertura del suelo, aplicándolos específicamente al departamento de **Nariño, Colombia**.
+Este repositorio contiene un ejercicio adaptado basado en el notebook original [Land Use and Land Cover Classification](https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part2.ipynb) desarrollado por **Climate Change AI Tutorials** por **Ankur Mahesh y Isabelle Tingzon**. El propósito de este proyecto es implementar los conceptos y métodos de clasificación de uso y cobertura del suelo, aplicándolos específicamente al departamento de **Nariño, Colombia**.
 
 ---
 
