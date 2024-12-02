@@ -53,7 +53,7 @@ El objetivo de este proyecto es demostrar cómo los métodos de clasificación s
 
 ---
 
-## 💡 Toma de
+## 💡 Tomado de
 
 Este proyecto está basado en el excelente trabajo de **Climate Change AI Tutorials**, cuyo notebook original puede encontrarse en el siguiente enlace:
 [Land Use and Land Cover Classification](https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part2.ipynb).
