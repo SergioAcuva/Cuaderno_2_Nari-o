@@ -33,7 +33,7 @@ Puedes acceder al notebook adaptado directamente desde este enlace:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/<tu_usuario>/Cuaderno_2_Nari-o.git
+   git clone https://github.com/SergioAcuva/Cuaderno_2_Nari-o.git
 2. Abre el notebook `lucl_Nariño_.ipynb` en Google Colab para explorar el análisis. 
 3. Asegúrate de tener los siguientes requisitos instalados si decides ejecutarlo localmente:
    - Python 3.x
